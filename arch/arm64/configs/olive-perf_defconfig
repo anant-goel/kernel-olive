@@ -4,6 +4,8 @@ CONFIG_LOCALVERSION_AUTO=n
 ## Moonlight features ##
 ## Ainur DTS Software ##
 CONFIG_AINUR_DTS_SW=y
+## Autocut Charger ##
+CONFIG_AUTOCUT_CHARGER=y
 ## KCAL/KLapse ##
 CONFIG_FB_MSM_MDSS_KCAL_CTRL=y
 CONFIG_KLAPSE=y
